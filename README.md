@@ -20,22 +20,52 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+CAT STEAMPUNK
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Bom vamos lá! De ínicio eu dei uma travada no projeto por preguiça ou pelo medo do fracasso ou sei lá,
+mas persisti. Criei algumas imagens feitas por IA de um GATO STEAMPUNK.  
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+* Midjourney
+
+* DALL.E 3
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro pensei em alguma coisa que tivesse haver com a minha personalidade e aos meus gostos pessoais,
+logo em seguida pesquisei no google "sites para criar imagens por IA de graça", um dos primeiros que apareceu foi o Midjourney.
+Depois avistei o DALL.E (uma IA de geração de imagem do próprio ChatGPT), escolhi ele para gerar o gato.
+
+PROMPTS:
+
+1. "Crie uma imagem para um projeto"
+                                    *DALL.E 3*
+                                    Claro, Ana! Me conte mais sobre o projeto e como você imagina a imagem:
+                                    - Qual é o tema ou objetivo do projeto?  
+                                    - Você tem alguma ideia de estilo ou cores que gostaria de usar?  
+                                    - Precisa de elementos específicos na imagem?  
+                                    Quanto mais detalhes você me der, mais personalizada ficará a criação. 😊
+
+2."gato steampunk inventando uma coisa nova"
+                                            *DALL.E 3*
+                                            *imagem*
+                                            Aqui está a imagem do gato steampunk inventando algo em sua oficina!
+                                            Se quiser ajustes ou uma nova versão, é só me avisar. 😊
+
+3."agora quero q ele seja latino americano ou brasileiro mesmo"
+                                                               *DALL.E 3*
+                                                               *imagem*
+                                                               Aqui está o gato steampunk inspirado em Albert Einstein, com um toque latino-americano e brasileiro! Caso queira
+                                                               ajustar mais algum detalhe ou adicionar algo especial, é só avisar. 😊
+                                 ETC...
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+CHAT COMPLETO COM AS IMAGENS :
+https://chatgpt.com/share/67393419-287c-8000-b4cc-d0a1d7a31abf
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Nunca pensei em criar um gato cybernético totalmente feito por Inteligência Artificial, incrível como estamos avançando!
 ```
 
 ### Exemplos e Insigths
